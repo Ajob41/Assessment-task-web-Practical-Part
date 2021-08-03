@@ -1,0 +1,50 @@
+.card {
+  position: absolute;
+  top: 70px;
+  right: 200px;
+  width: 230px;
+  height: 300px;
+  border-style: solid;
+  border-width: 0.2px;
+  border-color: #050505;
+  box-shadow: 0 0 9px 0 #c7c2c2, 1px 1px 6px 0 #c2bebe;
+}
+
+.body {
+  border: 2px solid #000;
+  box-shadow: 1px 1px 3px 0 #000, 1px 1px 3px 0 #000, inset 0 0 0 -20px #000;
+}
+
+.heading {
+  position: absolute;
+  top: 152px;
+  right: -25px;
+  bottom: 79px;
+  width: 200px;
+  padding-right: 19px;
+  font-family: Exo, sans-serif;
+}
+
+.paragraph {
+  position: absolute;
+  top: 190px;
+  right: -3px;
+  bottom: 60px;
+  width: 200px;
+  font-weight: 700;
+}
+
+.heading-2 {
+  position: absolute;
+  right: 178px;
+  bottom: 0px;
+}
+
+.html-embed {
+  position: absolute;
+  right: 220px;
+  bottom: 127px;
+  width: 34px;
+  color: #118126;
+  top: 330px;
+}
